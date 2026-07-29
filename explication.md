@@ -9,3 +9,4 @@ puis verifie si la valeur retournee est une `String` (comportement "PrintWriter"
 ou autre chose.
 
 **Pour tester :** `cd sprint4/test && javac *.java && java TestSprint4`
+ 
